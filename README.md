@@ -26,7 +26,7 @@
    - Ability to save deleted messages
   
   </details>
-- [RinBotShima (KartonBot)](//vk.com/rinbotshima) - Simple bot for VK (Made together with [KartonDCP](//github.com/KartonDCP))
+- [RinBotShima (KartonBot)](//vk.com/rinbotshima) - <s>Simple</s> bot for VK (Made together with [KartonDCP](//github.com/KartonDCP))
   <details>
   <summary>What he (she (it)) can do?</summary>
     
