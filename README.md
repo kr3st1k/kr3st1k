@@ -8,7 +8,7 @@
  - Student and shitty dev (`JS`, `Python`, and a little bit `C#`, `C++`, `Java`)
  - Live in Moscow
  - Alone. (pretty useful info.. i guess..)
- - Plays some rhythm games.. ([osu!](//osu.ppy.sh), BMS (7+1k), [Quaver(4k)](//store.steampowered.com/app/980610/Quaver/))
+ - Plays some rhythm games.. ([osu!](//osu.ppy.sh), BMS (7+1k), [Quaver](//store.steampowered.com/app/980610/Quaver/) (4k))
  - Posting some stuff in my Telegram channel [@kr3st1k](//t.me/kr3st1k)
   
 ### My projects
