@@ -24,7 +24,6 @@
    - Untyper & Unreader
    - Semi-invisible mode
    - Ability to save deleted messages
-  
   </details>
 - [RinBotShima (KartonBot)](//vk.com/rinbotshima) - <s>Simple</s> bot for VK (Made together with [KartonDCP](//github.com/KartonDCP))
   <details>
@@ -35,6 +34,9 @@
    - Output Weather info from [OWM](//openweathermap.org/)
    - Create a custom commands with text or attachment (using MySQL)
    - Render osu!gameplay (Using [osr2mp4](//github.com/uyitroa/osr2mp4-core))
+ 
+### Simple Sheesh
+- [osucket](//github.com/kr3st1k/osucket) - Yet another osu! memory output program using WebSocket (Made together with [ve3xone](//github.com/ve3xone))
    
 
   </details>
