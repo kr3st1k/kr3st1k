@@ -35,7 +35,7 @@
    - Create a custom commands with text or attachment (using MySQL)
    - Render osu!gameplay (Using [osr2mp4](//github.com/uyitroa/osr2mp4-core))
  
-### Simple Sheesh
+### Others
 - [osucket](//github.com/kr3st1k/osucket) - Yet another osu! memory output program using WebSocket (Made together with [ve3xone](//github.com/ve3xone))
    
 
