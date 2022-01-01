@@ -37,6 +37,7 @@
  
 ### Others
 - [osucket](//github.com/kr3st1k/osucket) - Yet another osu! memory output program using WebSocket (Made together with [ve3xone](//github.com/ve3xone))
+- [???] - Obscure game-server that nobody knows about
    
 
   </details>
