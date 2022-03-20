@@ -5,10 +5,10 @@
 
 ### About me
  - My name is **Kristian** aka `Kr3st1k` aka `Kristian5336`.
- - Student and shitty dev (`JS`, `Python`, and a little bit `C#`, `C++`, `Java`)
+ - Student and shitty dev (`JS`, `Python`, `C++` and a little bit `C#`, `Java`, `Kotlin`)
  - Live in Moscow
  - Alone. (pretty useful info.. i guess..)
- - Plays some rhythm games.. ([osu!](//osu.ppy.sh), BMS (7+1k), [Quaver](//store.steampowered.com/app/980610/Quaver/) (4k))
+ - Plays some rhythm games.. ([osu!](//osu.ppy.sh), BMS (7+1k), [Quaver](//store.steampowered.com/app/980610/Quaver/) (4k), SDVX (USC?))
  - Posting some stuff in my Telegram channel [@kr3st1k](//t.me/kr3st1k)
   
 ### My projects
@@ -38,6 +38,7 @@
 ### Others
 - [osucket](//github.com/kr3st1k/osucket) - Yet another osu! memory output program using WebSocket (Made together with [ve3xone](//github.com/ve3xone))
 - [???] - Obscure game-server that nobody knows about
+- [???] - Job stuff?
    
 
   </details>
