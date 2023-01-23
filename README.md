@@ -5,10 +5,10 @@
 
 ### About me
  - My name is **Kristian** aka `Kr3st1k` aka `kr3st1kdev` aka `kristian5336`.
- - Student and shitty dev (`JS`, `Python`, `C++`, `C#` and a little bit `Java`, `Kotlin`)
+ - Student and backend dev (`JS`, `Python`, `C++`, `C#` and a little bit `Java`, `Kotlin`)
  - Live in Moscow
  - ~~Alone~~. (pretty useful info.. i guess..)
- - Plays some rhythm games.. ([osu!](//osu.ppy.sh), BMS (7+1k), [Quaver (4K)](//store.steampowered.com/app/980610/Quaver/), SDVX (USC?), [DJMAX (4B, 5B, 6B)](//store.steampowered.com/app/960170/DJMAX_RESPECT_V/), Muse Dash, Phigros, Lanota, MUSYNX/MUSYNC, Pump It Up (14-17 lvls), ITG/StepMania/DDR)
+ - Plays some rhythm games.. ([osu!](//osu.ppy.sh), BMS (7+1k), [Quaver (4K)](//store.steampowered.com/app/980610/Quaver/), SDVX (USC?), [DJMAX (4B, 5B, 6B)](//store.steampowered.com/app/960170/DJMAX_RESPECT_V/), Muse Dash, Phigros, Rotaeno, Lanota, MUSYNX/MUSYNC, Pump It Up (14-17 lvls), ITG/StepMania/DDR)
  - Posting some stuff in my Telegram channel [@kr3st1k](//t.me/kr3st1k)
   
 ### My projects
@@ -38,6 +38,9 @@
 ### Others
 - [osucket](//github.com/kr3st1k/osucket) - Yet another osu! memory output program using WebSocket (Made together with [ve3xone](//github.com/ve3xone))
 - [???] - Obscure game-server that nobody knows about
+- [???] - Test(?)-task for one Russian company which makes some kind of computers(?)
+- [???] - Unfinished Telegram bot with some functional from KartonBot
+- [???] - Auto-fetcher of updated file for one obscure game that nobody knows about
 - [???] - worked at VK... no details here.. 
    
 
