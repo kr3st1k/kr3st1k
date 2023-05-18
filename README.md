@@ -42,6 +42,7 @@
 - [???] - Unfinished Telegram bot with some functional from KartonBot
 - [???] - Auto-fetcher of updated file for one obscure game that nobody knows about
 - [???] - worked at VK... no details here.. 
+- [???] - Demae Channel but for local restaurant (private 'cuz lazy)
    
 
   </details>
