@@ -12,7 +12,7 @@
  - Posting some stuff in my Telegram channel [@kr3st1k](//t.me/kr3st1k)
   
 ### My projects
-- [VTMessenger](//t.me/vtmsg) - Modded [VK Messenger](//vk.me/app) for PC (`win`, `mac`, `linux`)
+- [VTMessenger](//t.me/vtmsg) - Modded [VK Messenger (old Electron Version)](//vk.me/app) for PC (`win`, `mac`, `linux`)
   <details>
   <summary>Added features</summary>
     
