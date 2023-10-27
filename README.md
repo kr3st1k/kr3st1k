@@ -9,7 +9,7 @@
  - Live in Moscow
  - ~~Alone~~. (pretty useful info.. i guess..)
  - Plays some rhythm games.. ([osu!](//osu.ppy.sh), BMS (7+1k), [Quaver (4K)](//store.steampowered.com/app/980610/Quaver/), SDVX (USC?), [DJMAX (4B, 5B, 6B)](//store.steampowered.com/app/960170/DJMAX_RESPECT_V/), Muse Dash, Phigros, Rotaeno, Lanota, MUSYNX/MUSYNC, Pump It Up (14-17 lvls), ITG/StepMania/DDR)
- - Posting some stuff in my Telegram channel [@kr3st1k](//t.me/kr3st1k)
+ - Posting some stuff in my Telegram channel @kr3st1k
   
 ### My projects
 - [VTMessenger](//t.me/vtmsg) - Modded [VK Messenger (old Electron Version)](//vk.me/app) for PC (`win`, `mac`, `linux`)
