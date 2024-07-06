@@ -13,6 +13,8 @@
 ### My projects
 - [PumpTracker](//github.com/kr3st1k/pumptracker) - Pump It App Companion Android app 
 
+- [osucardbot](//t.me/osucardbot) - Inline Telegram bot with some functional from KartonBot (Create osu!profile cards and recent scores)
+
 - [VTMessenger](//t.me/vtmsg) - Modded [VK Messenger (old Electron Version)](//vk.me/app) for PC (`win`, `mac`, `linux`)
   <details>
   <summary>Added features</summary>
@@ -26,6 +28,7 @@
    - Semi-invisible mode
    - Ability to save deleted messages
   </details>
+
 - [RinBotShima (KartonBot)](//vk.com/rinbotshima) - <s>Simple</s> bot for VK (Made together with [KartonDCP](//github.com/KartonDCP))
   <details>
   <summary>What he (she (it)) can do?</summary>
@@ -40,7 +43,7 @@
 - [osucket](//github.com/kr3st1k/osucket) - Yet another osu! memory output program using WebSocket (Made together with [ve3xone](//github.com/ve3xone))
 - [???] - Obscure game-server that nobody knows about
 - [???] - Test(?)-task for one Russian company which makes some kind of computers(?)
-- [???] - Unfinished Telegram bot with some functional from KartonBot
+
 - [???] - Auto-fetcher of updated file for one obscure game that nobody knows about
 - [???] - worked at VK... no details here.. 
 - [???] - Demae Channel but for local restaurant (private 'cuz lazy)
