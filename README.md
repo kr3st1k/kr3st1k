@@ -11,7 +11,7 @@
  - Posting some stuff in my Telegram channel @kr3st1k
   
 ### My projects
-- [PumpTracker](//github.com/kr3st1k/PIU_companion) - Pump It App Companion Android app 
+- [PumpTracker](//github.com/kr3st1k/pumptracker) - Pump It App Companion Android app 
 
 - [VTMessenger](//t.me/vtmsg) - Modded [VK Messenger (old Electron Version)](//vk.me/app) for PC (`win`, `mac`, `linux`)
   <details>
