@@ -3,6 +3,8 @@
 <br>
 <a href="https://kr3st1k.me"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkr3st1k&count_bg=%23191A1B&title_bg=%23DE6161&icon=&icon_color=%23DE6161&title=hits&edge_flat=false"/></a>
 
+quit w; no more;
+
 ### About me
  - My name is **Kristian** aka `Kr3st1k` aka `kr3st1kdev` aka `kristian5336`.
  - Student and backend dev (`JS`, `Python`, `C++`, `C#` and a little bit `Java`, `Kotlin`)
